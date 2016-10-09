@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public class GemGun : MonoBehaviour {
@@ -7,6 +8,7 @@ public class GemGun : MonoBehaviour {
 	public float flyTime = 3;
     public float newScale = 0.1f;
     public float gemCount = 0;
+    public Text gemText;
 
     ArrayList gems = new ArrayList();
 
@@ -28,6 +30,7 @@ public class GemGun : MonoBehaviour {
             {
                 gems.Add(gem);
                 gemCount++;
+                if (gemText) gemText.text = (gemCount.ToString());
                 gem.transform.parent = transform;
                 LeanTween.moveLocal(gem, transform.localPosition, flyTime).setEase(LeanTweenType.easeInBounce);
                 LeanTween.scale(gem, gem.transform.localScale * newScale, flyTime);
