@@ -97,9 +97,11 @@
     <Compile Include="Assets\Scripts\BlackholeScript.cs" />
     <Compile Include="Assets\Scripts\BulletScript.cs" />
     <Compile Include="Assets\Scripts\ControllerScript.cs" />
+    <Compile Include="Assets\Scripts\FirstPersonScript.cs" />
+    <Compile Include="Assets\Scripts\GameControllerScript.cs" />
     <Compile Include="Assets\Scripts\GemGun.cs" />
-    <Compile Include="Assets\Scripts\RockController.cs" />
     <Compile Include="Assets\Scripts\RockScript.cs" />
+    <Compile Include="Assets\Scripts\RockSpawnerScript.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\RunningScript.cs" />
     <Compile Include="Assets\ShaderForge\Example Assets\Scripts\EditorLabel.cs" />

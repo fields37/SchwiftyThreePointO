@@ -1,0 +1,134 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX TITAN X (ID=0x17c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.055 seconds
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\ResVR\Documents\VRHACK\SchwiftyThreePointO\SchwiftyThreePointO\build\build_Data\Managed\Boo.Lang.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initialized touch support.
+ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.ovr_Initialize(&initParams) failed: Couldn't load LibOVRRT.
+Compositor failed to initialize.OpenVR initialized!
+ 
+(Filename:  Line: 347)
+
+[VRDevice] Successfully created device OpenVR.
+UnloadTime: 0.475657 ms
+Connected to lighthouse:LHR-FCF37D3A
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 3 worker threads for Enlighten.
+  Thread -> id: 2688 -> priority: 1 
+  Thread -> id: 26a0 -> priority: 1 
+  Thread -> id: 2738 -> priority: 1 
+1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+6
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+7
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+8
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+9
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+10
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+11
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+12
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+13
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+14
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+15
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+17
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+18
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+19
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.060540 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2573.
+Total: 0.576738 ms (FindLiveObjects: 0.115954 ms CreateObjectMapping: 0.050388 ms MarkObjects: 0.392181 ms  DeleteObjects: 0.017909 ms)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 701)
+
